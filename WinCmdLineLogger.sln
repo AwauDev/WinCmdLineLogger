@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinCmdLineLogger", "WinCmdLineLogger\WinCmdLineLogger.csproj", "{460BF59B-C77C-45E4-948E-D834A5E2861E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{460BF59B-C77C-45E4-948E-D834A5E2861E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{460BF59B-C77C-45E4-948E-D834A5E2861E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{460BF59B-C77C-45E4-948E-D834A5E2861E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{460BF59B-C77C-45E4-948E-D834A5E2861E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B84BA37-18FA-4CAF-813F-FA9573D37C18}
+	EndGlobalSection
+EndGlobal
